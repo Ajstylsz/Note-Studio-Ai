@@ -49,7 +49,7 @@
 The web showcase for this project includes anti-tampering measures to prevent unauthorized source code inspection, protecting the intellectual property of the **Note Studio** ecosystem.
 
 ---
-
+if ai not work install Latest supported v14 (for Visual Studio 2017–2026) x64
 ## 👨‍💻 Developer
 **Yassir27** - Visionary & Lead Developer of Note Studio AI.
 

